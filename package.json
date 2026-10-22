@@ -1,0 +1,13 @@
+{
+  "name": "example-electron-app",
+  "private": true,
+  "type": "module",
+  "description": "How to Test an Electron App End-to-End",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
